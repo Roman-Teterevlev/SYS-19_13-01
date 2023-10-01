@@ -26,7 +26,9 @@ Roman Teterevlev
 *Приведите ответ в свободной форме.*
 
 ### Ответ:
-
+![alt text](https://github.com/Roman-Teterevlev/SYS-19_13-01/blob/main/13-01_1.1.png)
+![alt text](https://github.com/Roman-Teterevlev/SYS-19_13-01/blob/main/13-01_1.2.png)
+![alt text](https://github.com/Roman-Teterevlev/SYS-19_13-01/blob/main/13-01_1.3.png)
 
 ---  
 
@@ -45,6 +47,9 @@ Roman Teterevlev
 
 ### Ответ:
 Режимы сканирования отличаются используемыми протоколами, а в случае TCP - параметрами flags
-
+![alt text](https://github.com/Roman-Teterevlev/SYS-19_13-01/blob/main/13-01_2.1.png)
+![alt text](https://github.com/Roman-Teterevlev/SYS-19_13-01/blob/main/13-01_2.2.png)
+![alt text](https://github.com/Roman-Teterevlev/SYS-19_13-01/blob/main/13-01_2.3.png)
+![alt text](https://github.com/Roman-Teterevlev/SYS-19_13-01/blob/main/13-01_2.4.png)
 
 ---
